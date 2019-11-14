@@ -1,0 +1,10 @@
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\MetroLog.dll
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\MetroLog.pdb
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
